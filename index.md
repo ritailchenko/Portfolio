@@ -5,7 +5,8 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="images/clicky-game.png?raw=true"/>(https://pages.github.com/)
+[<img src="images/clicky-game.png?raw=true"/>](http://google.com.au/)
+
 
 
 ---
