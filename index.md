@@ -7,26 +7,31 @@
 [<img src="images/clicky-game.png?raw=true"/>](https://ritailchenko.github.io/Clicky-Game/)
 
 ---
+
 ### Happy Hour
 
-[<img src="images/HappyHour.png?raw=true"/>](https://secure-oasis-95664.herokuapp.com/)
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[<img src="images/HappyHour.png?raw=true"/>](https://ritailchenko.github.io/Team5-Project1/)
 
 ---
 
-### Category Name 2
+### Responsive Personal Portfolio
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[<img src="images/portfolio.png?raw=true"/>](https://ritailchenko.github.io/Personal-Portfolio/)
+[<img src="images/portfolio2.png?raw=true"/>](https://ritailchenko.github.io/Responsive-Portfolio/)
 
 ---
 
+### Trivia Game
+
+[<img src="images/TriviaGame.png?raw=true"/>](https://ritailchenko.github.io/TriviaGame/)
+
+---
+
+### Crystal Collector Game
+
+[<img src="images/CrystalsCollector.png?raw=true"/>](https://ritailchenko.github.io/unit-4-game/)
+
+---
 
 
 
