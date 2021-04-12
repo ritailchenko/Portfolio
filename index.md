@@ -16,5 +16,11 @@
 
 ---
 
+### Happy Hour
+[<img src="images/HappyHour.png?raw=true"/>](https://ritailchenko.github.io/Team5-Project1/)
+
+
+---
+
 
 
