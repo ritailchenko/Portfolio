@@ -4,13 +4,12 @@
 
 ### Clicky Game
 
-[<img src="images/clicky-game.png?raw=true"/>](http://google.com.au/)
-
-
+[<img src="images/clicky-game.png?raw=true"/>](https://ritailchenko.github.io/Clicky-Game/)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Happy Hour
+
+[<img src="images/HappyHour.png?raw=true"/>](https://secure-oasis-95664.herokuapp.com/)
 
 ---
 [Project 3 Title](http://example.com/)
