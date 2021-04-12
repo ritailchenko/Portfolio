@@ -6,6 +6,7 @@
 
 [Project 1 Title](/sample_page)
 <img src="images/clicky-game.png?raw=true"/>
+(https://www.dotnetconf.net/?utm_campaign=savedate&utm_source=dotnefdn&utm_medium=newsletter)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
