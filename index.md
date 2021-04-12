@@ -7,11 +7,6 @@
 [<img src="images/clicky-game.png?raw=true"/>](https://ritailchenko.github.io/Clicky-Game/)
 
 ---
-### Clicky Game
-
-[<img src="images/clicky-game.png?raw=true"/>](https://ritailchenko.github.io/Clicky-Game/)
-
----
 
 ### Happy Hour
 
@@ -47,9 +42,6 @@
 ### Express Based App
 
 [<img src="images/Burger-Node-Express-Handlebars-app.png?raw=true"/>](https://secure-oasis-95664.herokuapp.com/)
-
----
-
 
 ---
 
