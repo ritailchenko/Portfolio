@@ -1,11 +1,16 @@
 title: Rita Ilchenko # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am a graduate of Bernard Baruch College, holding BA in graphic design. I possess a strong combination of aesthetic thinking and practical approach.
-  I am well versed with industry-standard design software including Photoshop and InDesign.
+  I am a graduate of Bernard Baruch College, holding BA in graphic design and Full Stack Web Developer from Columbia Uniersity Bootcamp. 
+  I possess a strong combination of aesthetic thinking and practical approach. 
+  During my formal education and practical experience I build solid grounding in the fundamentals: 
+  Browser Based Technologies: JS, Bootstrap, Local/Session Storage, ReactJS,
+  Server Side Development: Node.js, Express, User Authentication, MERN Stack. 
+  I have experience working with MySQL, along with MongoDB databases. 
+  To automate and enhance my workflow I have successfully applied series of techniques, including, but not limited to: Gulp, Sass, etc.
   <br><br>
-  Not just I bring to the table great design sense, I have strong knowledge of Web Development, which I gained at Columbia University's Bootcamp.
-  My formal education and practical experience makes me an exeptional developer with creative thinking. 
+  Using all my knowledge I am able successfully create a full stack application with AJAX, create RESTful APIs, understand the basics of troubleshooting and deploy static and dynamic websites to the enhancing legacy code,
+  
   <br><br>
   <a href="https://www.linkedin.com/in/rita-ilchenko/">View My LinkedIn Profile</a>
  
