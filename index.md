@@ -2,9 +2,8 @@
 
 ---
 
-### Category Name 1 
+### Clicky Game
 
-[Project 1 Title](/sample_page)
 [<img src="images/clicky-game.png?raw=true"/>](http://google.com.au/)
 
 
