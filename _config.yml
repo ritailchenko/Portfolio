@@ -1,7 +1,7 @@
 title: Rita Ilchenko # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-<br><br>
+
   I am a graduate of Bernard Baruch College, holding BA in graphic design and Full Stack Web Developer from Columbia Uniersity Bootcamp. 
   I possess a strong combination of aesthetic thinking and practical approach. 
   During my formal education and practical experience I build solid grounding in the fundamentals: 
@@ -11,7 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   To automate and enhance my workflow I have successfully applied series of techniques, including, but not limited to: Gulp, Sass, etc.
   <br><br>
   
-  <br><br>
+  
   <a href="https://www.linkedin.com/in/rita-ilchenko/">View My LinkedIn Profile</a>
  
   
