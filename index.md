@@ -33,8 +33,19 @@
 
 ---
 
+### Friend Finder App
+
+[<img src="images/friend-finder.png?raw=true"/>](https://peaceful-garden-64044.herokuapp.com/)
+
+---
+
+### Express Based App
+
+[<img src="images/Burger-Node-Express-Handlebars-app.png?raw=true"/>](https://secure-oasis-95664.herokuapp.com/)
+
+---
+
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
