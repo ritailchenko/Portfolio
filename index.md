@@ -10,7 +10,7 @@
 ---
 
 ### Clicky Game
-<a href="https://www.dotnetconf.net/?utm_campaign=savedate&utm_source=dotnefdn&utm_medium=newsletter">
+<a href="https://ritailchenko.github.io/Clicky-Game/">
 <img src="images/clicky-game.png?raw=true"/>
 </a>
 
