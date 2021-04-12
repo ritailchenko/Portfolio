@@ -4,7 +4,7 @@
 
 ### James and Hudson Farm
 <a href="https://jamesandhudsonfarm.elemento.biz/">
-<img src="images/jhf.png?raw=true"/>
+<img src="images/clicky-game.png?raw=true"/>
 </a>
 
 ---
