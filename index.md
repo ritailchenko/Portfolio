@@ -3,7 +3,7 @@
 ---
 
 ### James and Hudson Farm
-<a href="https://jamesandhudsonfarm.elemento.biz/">
+<a href="https://jamesandhudsonfarm.com/">
 <img src="images/jhf.png?raw=true"/>
 </a>
 
