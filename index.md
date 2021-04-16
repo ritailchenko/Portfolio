@@ -9,6 +9,13 @@
 
 ---
 
+### Buddy
+<a href="https://aqueous-castle-76510.herokuapp.com/">
+<img src="images/buddy.png?raw=true"/>
+</a>
+
+---
+
 ### Clicky Game
 <a href="https://ritailchenko.github.io/Clicky-Game/">
 <img src="images/clicky-game.png?raw=true"/>
